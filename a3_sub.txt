@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 oh i couldnt give you 'im sub'
+=======
+not gave 'im sub'
+>>>>>>> e93f7f6aa23c9eafa1494ec488503a77c7584f35
